@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **JELAshford/JELAshford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a PhD researcher at the University of Oxford, with a background in Natural Sciences (University of Exeter) and a specialisation in machine learning. I'm experienced in and excited about interdisciplinary scientific work and want to use my knowledge and skills to have a real-world impact. I firmly believe that the better we understand the problems in front of us, the stronger our collective solutions will be. 
 
-🔭 I’m currently working on a series of open-source tools for data cleaning and machine learning on DNA sequences
+- 🔭 I’m currently working on open-source tools for cleaning genetics data, and improving machine learning on DNA sequences
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/), and how to make my own graphics in [Blender](https://www.blender.org/)
+- 📓 I’m looking to collaborate on projects in [Explainable AI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) and [Artificial Life](https://en.wikipedia.org/wiki/Artificial_life)
+- 💬 Ask me about novel nature-inspired ways of developing AI, the worlds simplest cookie recipe, and why I'm always [running away from zombies](https://zrx.app/zombies)!
 
-🌱 I’m currently learning Rust, and creating my own graphics in Blender
+I'm **currently looking for work** - so if you need a passionate programmer with a strong scientific background and enthusiasm to work alongside other passionate people, I'd love to hear from you!
 
-👯 I’m looking to collaborate on projects in [Artifical Life](https://en.wikipedia.org/wiki/Artificial_life)
-
-💬 Ask me about novel ways of making AI and the worlds simplest cookie recipe!
+Stay safe out there!
