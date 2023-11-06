@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on a series of open-source tools for data cleaning and machine learning on DNA sequences
-🌱 I’m currently learning Rust, and making graphics in Blender
+
+🌱 I’m currently learning Rust, and creating my own graphics in Blender
+
 👯 I’m looking to collaborate on projects in [Artifical Life](https://en.wikipedia.org/wiki/Artificial_life)
+
 💬 Ask me about novel ways of making AI and the worlds simplest cookie recipe!
