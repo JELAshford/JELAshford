@@ -1,0 +1,58 @@
+:root {
+    /* Google font  */
+    font-family: 'Noto Sans';
+
+    /* Colours: @AlexCristache MindfulPalettes Num. 83 */
+    --silver_bird: #fbf5f0;
+    --holy_cannoli: #db783e;
+    --rum_punch: #AA423A;
+    --tropical_forest: #024a43;
+    --guerilla_forest: #142d25;
+}
+
+.emphasis {
+    color: var(--rum_punch)
+}
+
+/* Body */
+body {
+    background-color: var(--silver_bird);
+}
+
+/* Hyperlinks */
+a {
+    color: var(--holy_cannoli);
+    text-decoration: none;
+}
+#title a {
+    color: initial;
+}
+
+/* Headings */
+h2 {
+    color: var(--guerilla_forest);
+}
+h3 {
+    color: var(--tropical_forest);
+}
+
+/* Profile and image */
+.title {
+    display: flex;
+    margin: auto;
+    align-items: center;
+    max-width: 200px;
+}
+.profile_block {
+    display: flex;
+    margin: auto;
+    align-items: center;
+    max-width: 600px;
+}
+
+/* Key content */
+.content_block {
+    margin: auto;
+    padding-bottom: 15px;
+    width: 900px;
+}
