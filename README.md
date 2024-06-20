@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a PhD researcher at the University of Oxford, with a background in Natural Sciences (University of Exeter) and a specialisation in machine learning. I'm experienced in and excited about interdisciplinary scientific work and want to use my knowledge and skills to have a real-world impact. I firmly believe that the better we understand the problems in front of us, the stronger our collective solutions will be. 
+I'm a recently graduated PhD researcher from the University of Oxford, with a background in Natural Sciences (University of Exeter) and a specialisation in machine learning. I'm experienced in and excited about interdisciplinary scientific work and want to use my knowledge and skills to have a real-world impact. I firmly believe that the better we understand the problems in front of us, the stronger our collective solutions will be. 
 
 - 🔭 I’m currently working on open-source tools for cleaning genetics data, and improving machine learning on DNA sequences
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/), and how to make my own graphics in [Blender](https://www.blender.org/)
